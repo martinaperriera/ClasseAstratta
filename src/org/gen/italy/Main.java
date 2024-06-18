@@ -20,9 +20,6 @@ public class Main {
 		Chitarra c =new Chitarra("Gibson"); //creo nuova istanza chitarra 
 		Pianoforte p=new Pianoforte("Organo");
 		
-	
-		strumenti.add(new Chitarra ("Rock"));
-
 		
 
 		//POLIMORFISMO ciclo for per chiamare il metodo suona che nonostante il nome uguale avrà un suono diverso per ogni strumento
